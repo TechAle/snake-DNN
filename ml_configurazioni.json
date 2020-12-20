@@ -1,0 +1,19 @@
+{
+  "max_steps" : 100,
+  "perso" : -100,
+  "mela" : 20,
+  "vicino" : 1,
+  "lontano" : -1.7,
+  "gamma" : 0.95,
+  "batch_size" : 100,
+  "eps" : 2,
+  "eps_min" : 0.01,
+  "eps_decay" : 0.995,
+  "learning_rate" : 0.00028,
+  "layer1" : 128,
+  "layer2" : 128,
+  "layer3" : 128,
+  "epoches" : 500,
+  "spazio" : 8,
+  "avanti_indietro" : -20
+}
